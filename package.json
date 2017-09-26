@@ -1,0 +1,26 @@
+{
+  "name": "veres-one-context",
+  "version": "0.1.0-0",
+  "description": "Veres One Contexts",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/veres-one-context.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "http://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/veres-one-context/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/veres-one-context",
+  "peerDependencies": {
+    "bedrock": "digitalbazaar/bedrock#jsonld-1.1",
+    "bedrock-ledger-context": "digitalbazaar/bedrock-ledger-context"
+  },
+  "engines": {
+    "node": ">=6.3.0"
+  }
+}
