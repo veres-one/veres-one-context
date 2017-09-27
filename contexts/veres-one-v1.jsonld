@@ -19,7 +19,7 @@
     "Create": "wl:Create",
     "CryptographicKey": "sec:Key",
     "EquihashProof2017": "sec:EquihashProof2017",
-    "EventTypeFilter": "wl:EventTYpeFilter",
+    "EventTypeFilter": "wl:EventTypeFilter",
     "GraphSignature2012": "sec:GraphSignature2012",
     "Identity": "identity:Identity",
     "IssueCredential": "didv:IssueCredential",
