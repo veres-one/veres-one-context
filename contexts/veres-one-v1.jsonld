@@ -40,7 +40,7 @@
     "WebLedgerEventBlock": "wl:WebLedgerEventBlock",
 
     "approvedSigner": "wl:approvedSigner",
-    "authentication": "didv:authenticationSuite",
+    "authentication": {"@id": "didv:authenticationSuite", "@type": "@id", "@container": "@set"},
     "blockHeight": "wl:blockHeight",
     "canonicalizationAlgorithm": "sec:canonicalizationAlgorithm",
     "capability": "sec:capability",
