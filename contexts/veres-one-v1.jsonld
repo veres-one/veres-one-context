@@ -48,7 +48,7 @@
     "blockHeight": "wl:blockHeight",
     "canonicalizationAlgorithm": "sec:canonicalizationAlgorithm",
     "capability": {"@id": "sec:capability", "@type": "@id"},
-    "capabilityAction": {"@id": "sec:capabilityAction", "@type": "@id"},
+    "capabilityAction": {"@id": "sec:capabilityAction", "@type": "@vocab"},
     "comment": "rdfs:comment",
     "consensusMethod": {"@id": "wl:consensusMethod", "@type": "@vocab"},
     "created": {"@id": "dc:created", "@type": "xsd:dateTime"},
