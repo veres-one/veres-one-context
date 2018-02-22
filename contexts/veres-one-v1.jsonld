@@ -36,6 +36,8 @@
     "ProofOfWork2016": "wl:ProofOfWork2016",
     "RevocationCheck": "ocap:RevocationCheck",
     "RsaSignature2018": "sec:RsaSignature2018",
+    "RsaSignatureAuthentication2018": "sec:RsaSignatureAuthentication2018",
+    "RsaSignatureCapabilityAuthorization2018": "ocap:RsaSignatureCapabilityAuthorization2018",
     "RsaVerificationKey2018": "sec:RsaVerificationKey2018",
     "SequentialList": "wl:SequentialList",
     "SignatureValidator2017": "wl:SignatureValidator2017",
