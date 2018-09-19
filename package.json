@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/digitalbazaar/veres-one-context",
   "peerDependencies": {
-    "bedrock": "digitalbazaar/bedrock#jsonld-1.1",
-    "bedrock-ledger-context": "digitalbazaar/bedrock-ledger-context"
+    "bedrock": "^1.12.0",
+    "bedrock-ledger-context": "^1.0.0"
   },
   "engines": {
     "node": ">=6.3.0"
