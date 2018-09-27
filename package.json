@@ -5,7 +5,7 @@
   "main": "lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitalbazaar/veres-one-context.git"
+    "url": "https://github.com/veres-one/veres-one-context.git"
   },
   "author": {
     "name": "Digital Bazaar, Inc.",
@@ -13,14 +13,8 @@
     "url": "http://digitalbazaar.com"
   },
   "bugs": {
-    "url": "https://github.com/digitalbazaar/veres-one-context/issues"
+    "url": "https://github.com/veres-one/veres-one-context/issues"
   },
-  "homepage": "https://github.com/digitalbazaar/veres-one-context",
-  "peerDependencies": {
-    "bedrock": "^1.12.0",
-    "bedrock-ledger-context": "^1.0.0"
-  },
-  "engines": {
-    "node": ">=6.3.0"
-  }
+  "homepage": "https://github.com/veres-one/veres-one-context",
+  "dependencies": {}
 }
