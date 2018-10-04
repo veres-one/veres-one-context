@@ -77,7 +77,7 @@
     "digestAlgorithm": "sec:digestAlgorithm",
     "digestValue": "sec:digestValue",
     "domain": "sec:domain",
-    "electorPool": {"@id": "wl:electorPool", "@type": "@id"},
+    "electorPool": {"@id": "wl:electorPool", "@type": "@id", "@container": "@set"},
     "entity": "sec:entity",
     "equihashParameterAlgorithm": "sec:equihashParameterAlgorithm",
     "equihashParameterK": {"@id": "sec:equihashParameterK", "@type": "xsd:integer"},
