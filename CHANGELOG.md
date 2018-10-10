@@ -1,5 +1,11 @@
 # veres-one-context ChangeLog
 
+### Changed
+- **BREAKING**: Define capability action as a string.
+
+### Added
+- Elector pool support.
+
 ## 3.0.0 - 2018-10-01
 
 ### Changed
