@@ -1,5 +1,7 @@
 # veres-one-context ChangeLog
 
+## 4.0.0 - 2018-10-10
+
 ### Changed
 - **BREAKING**: Define capability action as a string.
 
