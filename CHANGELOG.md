@@ -1,5 +1,10 @@
 # veres-one-context ChangeLog
 
+### 5.0.0 - 2018-10-17
+
+### Changed
+- **BREAKING** Add definition for `elector`.
+
 ## 4.0.0 - 2018-10-10
 
 ### Changed
