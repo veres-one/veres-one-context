@@ -1,5 +1,10 @@
 # veres-one-context ChangeLog
 
+### 6.0.0 - 2018-11-05
+
+### Changed
+- **BREAKING** Add Continuity2017 elector terms.
+
 ### 5.0.0 - 2018-10-17
 
 ### Changed
