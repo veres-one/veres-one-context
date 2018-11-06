@@ -1,11 +1,17 @@
 # veres-one-context ChangeLog
 
-### 6.0.0 - 2018-11-05
+## 7.0.0 - 2018-11-06
+
+### Changed
+- **BREAKING** Remove Continuity2017RecoveryElector.
+- **BREAKING** Add maximumElectorCount.
+
+## 6.0.0 - 2018-11-05
 
 ### Changed
 - **BREAKING** Add Continuity2017 elector terms.
 
-### 5.0.0 - 2018-10-17
+## 5.0.0 - 2018-10-17
 
 ### Changed
 - **BREAKING** Add definition for `elector`.
