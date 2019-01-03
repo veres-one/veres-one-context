@@ -1,5 +1,10 @@
 # veres-one-context ChangeLog
 
+## 8.0.0 - 2019-01-03
+
+### Changed
+- **BREAKING** Remove unused terms.
+
 ## 7.0.0 - 2018-11-06
 
 ### Changed
