@@ -1,6 +1,6 @@
 # veres-one-context ChangeLog
 
-## 9.0.0 - TBD
+## 9.0.0 - 2019-05-30
 
 ### Changed
 - **BREAKING**: Implement a new module structure.
