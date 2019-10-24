@@ -1,5 +1,10 @@
 # veres-one-context ChangeLog
 
+## 10.0.0 - TBD
+
+### Changed
+- **BREAKING**: Add term allowedServiceBaseUrl.
+
 ## 9.0.0 - 2019-05-30
 
 ### Changed
