@@ -1,5 +1,10 @@
 # veres-one-context ChangeLog
 
+## 11.0.0 - TBD
+
+### Changed
+- **BREAKING**: Add term ValidatorParameterSet.
+
 ## 10.0.0 - 2019-11-12
 
 ### Changed

@@ -8,6 +8,7 @@
 
     "Elector": "wl:Elector",
     "RecoveryElector": "wl:RecoveryElector",
+    "ValidatorParameterSet": "wl:ValidatorParameterSet",
 
     "allowedServiceBaseUrl": {"@id": "v1:allowedServiceBaseUrl", "@type": "@id", "@container": "@set"},
     "blockHeight": "wl:blockHeight",
