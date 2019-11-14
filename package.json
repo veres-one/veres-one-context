@@ -1,6 +1,6 @@
 {
   "name": "veres-one-context",
-  "version": "11.0.0",
+  "version": "11.0.1-0",
   "description": "Veres One Contexts",
   "main": "lib",
   "module": "./dist/module.js",
