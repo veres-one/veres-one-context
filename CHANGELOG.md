@@ -1,5 +1,15 @@
 # veres-one-context ChangeLog
 
+## 12.0.0 -
+
+### Changed
+- **BREAKING**: Remove all prefixes/cURIs.
+- Remove `fs` usage.
+- Align with our other context templates.
+
+### Added
+- Add `CBORLD_CODEC_VALUE` constant..
+
 ## 11.0.0 - 2019-11-14
 
 ### Changed

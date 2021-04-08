@@ -1,9 +1,10 @@
 module.exports = {
   output: {
-    libraryTarget: 'commonjs'
+    libraryTarget: 'commonjs',
+    filename: 'context.js'
   },
   mode: 'production',
-  entry: './lib/browser.js',
+  entry: './lib/index.js',
   module: {
     rules: [
       {
