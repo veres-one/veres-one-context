@@ -1,19 +1,13 @@
 {
   "@context": {
-    "@version": 1.1,
+    "Elector": "https://w3id.org/webledger#Elector",
+    "RecoveryElector": "https://w3id.org/webledger#RecoveryElector",
+    "ValidatorParameterSet": "https://w3id.org/webledger#ValidatorParameterSet",
 
-    "v1": "https://w3id.org/veres-one#",
-    "wl": "https://w3id.org/webledger#",
-    "xsd": "http://www.w3.org/2001/XMLSchema#",
-
-    "Elector": "wl:Elector",
-    "RecoveryElector": "wl:RecoveryElector",
-    "ValidatorParameterSet": "wl:ValidatorParameterSet",
-
-    "allowedServiceBaseUrl": {"@id": "v1:allowedServiceBaseUrl", "@type": "@id", "@container": "@set"},
-    "blockHeight": "wl:blockHeight",
-    "elector": {"@id": "wl:elector", "@type": "@id"},
-    "electorPool": {"@id": "wl:electorPool", "@type": "@id", "@container": "@set"},
-    "maximumElectorCount": {"@id": "wl:maximumElectorCount", "@type": "xsd:integer"}
+    "allowedServiceBaseUrl": {"@id": "https://w3id.org/veres-one#allowedServiceBaseUrl", "@type": "@id", "@container": "@set"},
+    "blockHeight": "https://w3id.org/webledger#blockHeight",
+    "elector": {"@id": "https://w3id.org/webledger#elector", "@type": "@id"},
+    "electorPool": {"@id": "https://w3id.org/webledger#electorPool", "@type": "@id", "@container": "@set"},
+    "maximumElectorCount": {"@id": "https://w3id.org/webledger#maximumElectorCount", "@type": "http://www.w3.org/2001/XMLSchema#integer"}
   }
 }
