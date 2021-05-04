@@ -1,5 +1,10 @@
 # veres-one-context ChangeLog
 
+## 12.0.0 -
+
+### Changed
+- **BREAKING**: Refactor context to remove prefix/cURI usage.
+
 ## 11.0.0 - 2019-11-14
 
 ### Changed
