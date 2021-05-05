@@ -1,6 +1,6 @@
 # veres-one-context ChangeLog
 
-## 12.0.0 -
+## 12.0.0 - 2021-05-05
 
 ### Changed
 - **BREAKING**: Refactor context to remove prefix/cURI usage.
